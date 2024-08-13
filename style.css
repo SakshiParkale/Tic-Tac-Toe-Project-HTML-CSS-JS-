@@ -35,7 +35,7 @@ body{
     width: 18vmin;
     border-radius: 1rem;
     border: none;
-    box-shadow: 0 0 1rem rgba(0,0,0,0.2);
+    box-shadow: 0 0 1rem rgba(0,0,0,0.3);
     font-size: 8vmin;
     color: #6D4C3D;
     background-color: #CDC5D8;
@@ -59,11 +59,11 @@ body{
     background-color: black;
     color: white;
 }
+
 #msg{
     color: #6E463C;
     font-size: 1.5rem;
     font-weight: bold;
-    /* padding:1rem; */
 }
 
 .msg-container{
